@@ -11,6 +11,7 @@ import java.util.Map;
 public class SingletonCollection {
     private static Map<String, Object> singletonmaps = new HashMap<>();
 
+    //
     private SingletonCollection() {
     }
 
