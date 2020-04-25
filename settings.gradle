@@ -1,0 +1,3 @@
+rootProject.name='DesignModeCode'
+include ':app'
+include ':libs'
